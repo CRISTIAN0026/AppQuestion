@@ -16,7 +16,7 @@ export default function Questions(){
     const [response, setResponse] = useState([]);
     const [state, setState] = useState(0);
     const [count, setCount] = useState(0);
-    const url = "https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean";
+    const url = "https://opentdb.com/api.php?amount=12&difficulty=hard&type=boolean";
 
 /**
    * Fetch Trivia Questions
