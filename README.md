@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project features
 
-AppQuestion is an exciting web application that challenges you to answer 10 questions in a limited time. This app is built using the React JavaScript library to provide an interactive and engaging experience. Test your knowledge and skills as you immerse yourself in this exciting trivia challenge.
+AppQuestion is an exciting web application that challenges you to answer 12 questions in a limited time. This app is built using the React JavaScript library to provide an interactive and engaging experience. Test your knowledge and skills as you immerse yourself in this exciting trivia challenge.
 
 Steps to execute the project:
 
